@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\n\ c1\ are\ seria\ 12345\ -\ suma\ cifrelor\ e\ 15\n\ c2\ are\ seria\ 12345\ -\ suma\ cifrelor\ e\ 15\n\ c3\ are\ seria\ 54321\ -\ suma\ cifrelor\ e\ 15\n\ \n\ toate\ cardurile\ au\ suma\ cifrelor\ seriei\ egala\ cu\ 15\ dar\ doar\ c1\ \=\=\ c2,\ deci\ folosirea\ sumei\ respecta\ regula\ hashCode\n
+comment1.params=serie
+comment1.target=Card(java.lang.String)
+comment2.params=
+comment2.target=int\ hashCode()
+comment3.params=o
+comment3.target=boolean\ equals(java.lang.Object)
+numComments=4
